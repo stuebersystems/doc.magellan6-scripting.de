@@ -1,0 +1,16 @@
+{
+    "plugins": [
+        "image-captions",
+        "back-to-top-button",
+        "bootstrap-callout",
+        "page-toc-button"
+    ],
+    "pluginsConfig": {
+        "image-captions": {
+            "attributes": {
+                "margin": "0 auto"
+            },
+            "caption": "_CAPTION_"
+        }
+    }
+}

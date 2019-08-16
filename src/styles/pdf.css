@@ -1,0 +1,12 @@
+/* CSS for pdf */
+figure img {
+    display: block;
+    margin: 0 auto;
+}
+dl {
+    padding: 1em;
+    border: 1px solid #eee;
+}
+dt {
+    padding: 0 .85em!important;
+}
