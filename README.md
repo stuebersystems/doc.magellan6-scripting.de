@@ -1,5 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/h8rwtb57y458ofl7?svg=true)](https://ci.appveyor.com/project/stueber/doc-magellan6-scripting-de)
-
 # MAGELLAN 6 Scripting
 
 Dies ist die deutsche Dokumentation zum Scripting in MAGELLAN 6. Die Dokumentation ist Open Source und wir haben sie mit [GitBook](https://github.com/GitbookIO/gitbook) realisiert.
